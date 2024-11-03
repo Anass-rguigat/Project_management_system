@@ -9,8 +9,8 @@ import org.springframework.stereotype.Service;
 import com.example.demo.model.Issue;
 import com.example.demo.model.Project;
 import com.example.demo.model.User;
+import com.example.demo.repositories.IssueRepository;
 import com.example.demo.requests.IssueRequest;
-import com.example.demo.responses.IssueRepository;
 
 @Service
 public class IssueServiceImpl implements IssueService{
