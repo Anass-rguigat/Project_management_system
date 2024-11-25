@@ -1,0 +1,16 @@
+-----------------first day--------------------------
+-session management, CORS settings, and a JWT token validator.
+-signin and signup
+-creating all models and relation 
+-creating projectService interface 
+-ProjectServiceImpl structure 
+-ProjectRepository structure
+-----------------second day-------------------------------
+-create auth jwt 
+-finish repo chat and project and user
+-finish service chat and project and user 
+-finish controller auth and project 
+----------------Third day-----------------------
+-email 
+-issue services
+4/11
